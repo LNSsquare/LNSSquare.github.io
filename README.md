@@ -1,3 +1,5 @@
+<img src="./icon.png" height="200">
+
 <div diaplay="flex" gap="20px" align-item="flex-start">
 <a href="https://play.google.com/store/apps/details?id=com.lnssquare.square">
 <img src="./GetItOnGooglePlay_Badge_Web_color_Korean.png" height="100px"/>
