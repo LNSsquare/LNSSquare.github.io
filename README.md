@@ -1,7 +1,6 @@
-<meta
-  name="og:image"
-  content="./icon.png"
-/>
+<meta  name="og:image" content="./icon.png" width="200px" height="200px" />
+
+<meta name="og:description" content="Square: 노트 캘린더 데이터베이스" />
 
 <img src="./icon.png" height="200">
 
