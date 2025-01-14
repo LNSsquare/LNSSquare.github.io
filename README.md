@@ -1,8 +1,4 @@
-<meta  property="og:image" content="./icon.png" width="200px" height="200px" />
-
-<meta property="og:description" content="Square: 노트 캘린더 데이터베이스" />
-
-<img src="./icon.png" og:image:height="200px" />
+<img src="./icon.png" height="200px" />
 
 <div diaplay="flex" gap="20px" align-item="flex-start">
 <a href="https://play.google.com/store/apps/details?id=com.lnssquare.square">
