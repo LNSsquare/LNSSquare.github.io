@@ -1,3 +1,8 @@
+<meta
+  name="og:image"
+  content="./icon.png"
+/>
+
 <img src="./icon.png" height="200">
 
 <div diaplay="flex" gap="20px" align-item="flex-start">
