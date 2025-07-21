@@ -1,10 +1,9 @@
 ---
 ---
-
 <h1>카페나우 - 중앙대학교 주변 카페 정보 및 후기</h1>
 <img src="./CafeNow.png" height="200px" />
 
-<div diaplay="flex" gap="20px" align-item="flex-start">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 <a href="https://play.google.com/store/apps/details?id=com.lnssquares.cafe_seat&pli=1">
 <img src="./GetItOnGooglePlay_Badge_Web_color_Korean.png" height="100px"/>
 </a>
